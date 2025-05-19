@@ -1,2 +1,2 @@
-SERVER = "10.128.0.3"
+SERVER = "IP ADDRESS"  # Substituir pelo IP do servidor da VM AWS
 PORT   = 5002
